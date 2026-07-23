@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="496" height="496" rx="116" fill="#0a0a0a"/>
+  <rect x="14" y="14" width="484" height="484" rx="110" fill="none" stroke="#C9A84C" stroke-width="4" opacity="0.85"/>
+  <!-- house outline -->
+  <path d="M136 256 L256 152 L376 256" fill="none" stroke="#C9A84C" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172 252 L172 352 Q172 366 186 366 L326 366 Q340 366 340 352 L340 252" fill="none" stroke="#C9A84C" stroke-width="24" stroke-linecap="round"/>
+  <!-- play accent -->
+  <path d="M236 266 L296 306 L236 346 Z" fill="#ffffff"/>
+  <!-- divider -->
+  <line x1="150" y1="404" x2="362" y2="404" stroke="#C9A84C" stroke-width="3" opacity="0.35"/>
+  <text x="256" y="462" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="52" letter-spacing="6" fill="#C9A84C">KW</text>
+</svg>
